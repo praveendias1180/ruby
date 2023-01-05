@@ -13,3 +13,8 @@ https://www.ruby-lang.org/en/
 # Ruby Scripting
 
 ![](ruby-scripting.png)
+
+
+# Best Friend
+
+![](best.png)
