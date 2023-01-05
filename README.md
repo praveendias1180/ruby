@@ -1,5 +1,9 @@
 # Ruby
 
+> There were rumors that Ruby being popular than Python in Japan. In the past, much of the detailed Ruby documentation was in Japanese.
+> 
+> - http://ruby-doc.com/docs/ProgrammingRuby/
+
 Ruby was developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
 
 ![](ruby.svg)
