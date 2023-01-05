@@ -9,3 +9,7 @@ A dynamic, open source programming language with a focus on simplicity and produ
 https://www.ruby-lang.org/en/
 
 ![](hello.png)
+
+# Ruby Scripting
+
+![](ruby-scripting.png)
